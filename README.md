@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlaminMJ
 - 👀 I’m interested in MERN STACK WEB DEVELOPING
-- 🌱 I’m currently learning REACT,EXPRESS,NODE,MONGODB
+- 🌱 I’m currently learning Nextjs,Prisma,REACT,EXPRESS,NODE,MONGODB,MYSQL,Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alamin.mj.3228@gmail.com
 
