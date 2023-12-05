@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlaminMJ
-- 👀 I’m interested in MERN STACK WEB DEVELOPING
-- 🌱 I’m currently learning Nextjs,Prisma,ReactJs,Express,NodeJS,MongoDB,MYSQL,Typescript
+- 👀 I’m interested in full stack software development 
+- 🌱 I’m currently work with Nextjs,Prisma,ReactJs,Express,NodeJS,MongoDB,MYSQL,Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alamin.mj.3228@gmail.com
 -  Contact: +8801610132213
